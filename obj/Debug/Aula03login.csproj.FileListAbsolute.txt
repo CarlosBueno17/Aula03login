@@ -1,0 +1,11 @@
+C:\Users\carlos.ebsilva9\source\repos\Aula03login\Aula03login\bin\Debug\Aula03login.exe.config
+C:\Users\carlos.ebsilva9\source\repos\Aula03login\Aula03login\bin\Debug\Aula03login.exe
+C:\Users\carlos.ebsilva9\source\repos\Aula03login\Aula03login\bin\Debug\Aula03login.pdb
+C:\Users\carlos.ebsilva9\source\repos\Aula03login\Aula03login\obj\Debug\Aula03login.csproj.AssemblyReference.cache
+C:\Users\carlos.ebsilva9\source\repos\Aula03login\Aula03login\obj\Debug\Aula03login.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos.ebsilva9\source\repos\Aula03login\Aula03login\obj\Debug\Aula03login.Properties.Resources.resources
+C:\Users\carlos.ebsilva9\source\repos\Aula03login\Aula03login\obj\Debug\Aula03login.csproj.GenerateResource.cache
+C:\Users\carlos.ebsilva9\source\repos\Aula03login\Aula03login\obj\Debug\Aula03login.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ebsilva9\source\repos\Aula03login\Aula03login\obj\Debug\Aula03login.exe
+C:\Users\carlos.ebsilva9\source\repos\Aula03login\Aula03login\obj\Debug\Aula03login.pdb
+C:\Users\carlos.ebsilva9\source\repos\Aula03login\Aula03login\obj\Debug\Aula03login.Form1.resources
